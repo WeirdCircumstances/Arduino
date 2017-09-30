@@ -1,11 +1,11 @@
 
-int latchPin = 5;
-int clockPin = 6;
-int dataPin = 4;
-int outputEnablePin = 3;
+int latchPin = 6; //alt 5
+int clockPin = 9; //alt 6
+int dataPin = 7;  //alt 4
+int outputEnablePin = 5; // alt 3
 int ledoff = 13;
-int soundpin = 12;
-int photopin = 0;
+//int soundpin = 12;
+//int photopin = 0;
 
 /*int numTones = 10;
 int tones[] = {261, 277, 294, 311, 330, 349, 370, 392, 415, 440};
@@ -18,7 +18,7 @@ void setup()
   pinMode(latchPin, OUTPUT);
   pinMode(dataPin, OUTPUT);  
   pinMode(clockPin, OUTPUT);
-  pinMode(outputEnablePin, OUTPUT); 
+//  pinMode(outputEnablePin, OUTPUT); 
   pinMode(ledoff, OUTPUT);
 
 /*

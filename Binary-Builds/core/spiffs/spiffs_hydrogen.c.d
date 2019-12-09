@@ -1,0 +1,26 @@
+/Users/ben/Nextcloud/Arduino/Binary-Builds/core/spiffs/spiffs_hydrogen.c.o: \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/cores/esp8266/spiffs/spiffs_hydrogen.c \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/cores/esp8266/spiffs/spiffs.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/cores/esp8266/spiffs/spiffs_config.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/stdint.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/features.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/_intsup.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/string.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/_ansi.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/newlib.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/config.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/xtensa/config/core-isa.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/reent.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/_ansi.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/_types.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/machine/_types.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/lock.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/string.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/stdio.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/types.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/machine/types.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/tools/sdk/libc/xtensa-lx106-elf/include/sys/stdio.h \
+ /Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/cores/esp8266/spiffs/spiffs_nucleus.h

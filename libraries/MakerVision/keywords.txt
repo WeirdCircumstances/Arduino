@@ -1,0 +1,11 @@
+#######################################
+# Syntax Coloring Map For Test
+#
+# Datatypes (KEYWORD1)
+# Methods and Functions (KEYWORD2)
+# Instances (KEYWORD2)
+# Constants (LITERAL1)
+#######################################
+
+MVServo	KEYWORD1
+sweepTo	KEYWORD2

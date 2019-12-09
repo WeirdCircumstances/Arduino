@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "/Applications/Arduino.app/Contents/Java/libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.xtensa-lx106-elf-gcc.path=/Users/ben/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2,runtime.tools.xtensa-lx106-elf-gcc-1.20.0-26-gb404fb9-2.path=/Users/ben/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2,runtime.tools.mkspiffs.path=/Users/ben/Library/Arduino15/packages/esp8266/tools/mkspiffs/0.2.0,runtime.tools.mkspiffs-0.2.0.path=/Users/ben/Library/Arduino15/packages/esp8266/tools/mkspiffs/0.2.0,runtime.tools.esptool.path=/Users/ben/Library/Arduino15/packages/esp8266/tools/esptool/0.4.13,runtime.tools.esptool-0.4.13.path=/Users/ben/Library/Arduino15/packages/esp8266/tools/esptool/0.4.13",
+  "fqbn": "esp8266:esp8266:nodemcuv2:CpuFrequency=80,VTable=flash,FlashSize=4M3M,LwIPVariant=v2mss536,Debug=Disabled,DebugLevel=None____,FlashErase=none,UploadSpeed=921600",
+  "hardwareFolders": "/Applications/Arduino.app/Contents/Java/hardware,/Users/ben/Library/Arduino15/packages,/Users/ben/Nextcloud/Arduino/hardware",
+  "otherLibrariesFolders": "/Users/ben/Nextcloud/Arduino/libraries",
+  "runtime.ide.version": "10808",
+  "sketchLocation": "/Users/ben/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.2/libraries/ArduinoOTA/examples/BasicOTA/BasicOTA.ino",
+  "toolsFolders": "/Applications/Arduino.app/Contents/Java/tools-builder,/Applications/Arduino.app/Contents/Java/hardware/tools/avr,/Users/ben/Library/Arduino15/packages"
+}

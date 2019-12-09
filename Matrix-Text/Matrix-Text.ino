@@ -6,7 +6,11 @@
  #define PSTR // Make Arduino Due happy
 #endif
 
+<<<<<<< HEAD
  #define PIN 6
+=======
+#define PIN 6
+>>>>>>> ae45055462f76bcc1fab95ac19f30154a6d8210c
 
 #define COLOR_ORDER GRB
 #define CHIPSET     WS2812
@@ -181,3 +185,7 @@ void ColorDemo(){
     }
 }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> ae45055462f76bcc1fab95ac19f30154a6d8210c
